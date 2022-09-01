@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheContest</string>
+    <string name="default_score">0</string>
+    <string name="score">Score</string>
+    <string name="steal">Steal</string>
+    <string name="reset">Reset</string>
+</resources>
